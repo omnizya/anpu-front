@@ -3,12 +3,13 @@
  */
 
 import styled from 'styled-components';
+import { Colors } from '../../constants';
 
 const A = styled.a`
-  color: #41addd;
-
+  color: ${Colors.ahref.default};
+  text-decoration: none;
   &:hover {
-    color: #6cc0e5;
+    color: ${Colors.ahref.hover};
   }
 `;
 

@@ -113,7 +113,7 @@
     "compression-webpack-plugin": "2.0.0",
     "coveralls": "3.0.2",
     "css-loader": "1.0.0",
-    "enzyme": "3.7.0",
+    "enzyme": "3.9.0",
     "enzyme-adapter-react-16": "1.6.0",
     "enzyme-to-json": "3.3.4",
     "eslint": "5.7.0",

@@ -56,7 +56,7 @@
     "babel-core": "7.0.0-bridge.0"
   },
   "dependencies": {
-    "@babel/polyfill": "7.0.0",
+    "@babel/polyfill": "7.4.4",
     "chalk": "2.4.2",
     "compression": "1.7.4",
     "connected-react-router": "4.5.0",
@@ -88,13 +88,13 @@
     "warning": "4.0.2"
   },
   "devDependencies": {
-    "@babel/cli": "7.1.2",
-    "@babel/core": "7.1.2",
-    "@babel/plugin-proposal-class-properties": "7.1.0",
-    "@babel/plugin-syntax-dynamic-import": "7.0.0",
+    "@babel/cli": "7.4.4",
+    "@babel/core": "7.4.5",
+    "@babel/plugin-proposal-class-properties": "7.4.4",
+    "@babel/plugin-syntax-dynamic-import": "7.2.0",
     "@babel/plugin-transform-modules-commonjs": "7.4.4",
-    "@babel/plugin-transform-react-constant-elements": "7.0.0",
-    "@babel/plugin-transform-react-inline-elements": "7.0.0",
+    "@babel/plugin-transform-react-constant-elements": "7.2.0",
+    "@babel/plugin-transform-react-inline-elements": "7.2.0",
     "@babel/preset-env": "7.4.5",
     "@babel/preset-react": "7.0.0",
     "@babel/register": "7.0.0",
@@ -137,7 +137,7 @@
     "ngrok": "3.1.1",
     "node-plop": "0.16.0",
     "null-loader": "0.1.1",
-    "offline-plugin": "5.0.5",
+    "offline-plugin": "5.0.7",
     "plop": "2.1.0",
     "pre-commit": "1.2.2",
     "prettier": "1.14.3",

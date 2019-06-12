@@ -112,7 +112,7 @@
     "compare-versions": "3.4.0",
     "compression-webpack-plugin": "2.0.0",
     "coveralls": "3.0.2",
-    "css-loader": "1.0.0",
+    "css-loader": "1.0.1",
     "enzyme": "3.9.0",
     "enzyme-adapter-react-16": "1.6.0",
     "enzyme-to-json": "3.3.4",

@@ -64,7 +64,7 @@
     "express": "4.16.4",
     "fontfaceobserver": "2.1.0",
     "history": "4.7.2",
-    "hoist-non-react-statics": "3.0.1",
+    "hoist-non-react-statics": "3.3.0",
     "immutable": "3.8.2",
     "intl": "1.2.5",
     "invariant": "2.2.4",
